@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Debmalya!
+Full Stack Web Developer | Builder | Tech Enthusiast
 
-<!--
-**Fifinixx/Fifinixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications. When I'm not writing code, I'm usually geeking out over PC hardware or exploring the intersection of web development and AI.
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:  KANVIX, A Multi-Tenant task project tracker.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Tech Stack
+
+Frontend: React, Next.js, TypeScript, Motion 
+
+Backend & DB: Node.js, Express, MongoDB, Prisma, PostgreSQL
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/debmalyamaity/
+
+Instagram: https://www.instagram.com/codewithmilo/
+
+YouTube: https://www.youtube.com/@codewithmilo/
